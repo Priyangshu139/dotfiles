@@ -17,7 +17,7 @@ window#waybar {
 }
 
 #window {
-    margin: 8px;
+    margin: 0px;
     padding-left: 8;
     padding-right: 8;
 }
